@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/mainbg">
+        <file>img/maxresdefault.jpg</file>
+    </qresource>
+</RCC>

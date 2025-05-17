@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/authbg">
+        <file>img/authbg.png</file>
+    </qresource>
+</RCC>
